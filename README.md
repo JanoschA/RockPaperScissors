@@ -31,7 +31,7 @@ cd rock-paper-scissors
 ```
 1. Run the game using Python:
 ```bash
-python main.py
+python3 main.py
 ```
 
 ## Example Game Outputs
