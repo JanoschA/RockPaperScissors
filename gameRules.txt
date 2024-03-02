@@ -1,0 +1,11 @@
+|x        |rock|paper|scissors|fountain|
+|rock     |T   |L    |W       |L       |
+|paper    |W   |T    |L       |W       |
+|scissors |L   |W    |T       |L       |
+|fountain |W   |L    |W       |T       |
+
+// Tutorial
+// the first x in the top left corner will be ignored
+// the spaces between the | will be ignored, there are just for readability there
+// T stands for tie, L for lose, W for win
+// As you can see, the comments // will be also ignored
